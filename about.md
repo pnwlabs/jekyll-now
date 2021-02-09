@@ -8,7 +8,7 @@ I am a Network Solutions Architect based out of Bend, Oregon.  I earned a Wirele
 
 ### More Information
 
-CCIE 40949
+CCIE 40949<br>
 CWNE 98
 CCNA R&S
 JNCIA MistAI
