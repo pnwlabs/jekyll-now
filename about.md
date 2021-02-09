@@ -18,5 +18,5 @@ AWS Networking Speciality
 
 ### Contact me
 
-[My Certifications] (https://www.youracclaim.com/users/travis-schlafke)
+[My Certifications](https://www.youracclaim.com/users/travis-schlafke)
 [Hit me up on LinkedIn](https://www.linkedin.com/in/travisschlafke/)
