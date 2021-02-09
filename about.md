@@ -12,8 +12,8 @@ CCIE 40949<br>
 CWNE 98<br>
 CCNA R&S<br>
 JNCIA MistAI<br>
-AWS Solutions Architect Associate <br>
-AWS Networking Speciality <br>
+AWS Solutions Architect Associate<br>
+AWS Networking Speciality<br>
 
 
 ### Contact me
