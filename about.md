@@ -15,7 +15,6 @@ JNCIA MistAI<br>
 AWS Solutions Architect Associate<br>
 AWS Networking Speciality<br>
 
-
 ### Contact me
 
 [My Certifications](https://www.youracclaim.com/users/travis-schlafke)
